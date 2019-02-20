@@ -34,10 +34,8 @@ end
 
 def for_iterator(number_of_times)
   for_example = 1..(number_of_times)
-  for 
-  
-  
+  for example in for_example
    puts "Welcome to Flatiron School's Web Development Course!"
-  
+  end
 end
 
